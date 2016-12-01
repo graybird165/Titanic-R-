@@ -1,0 +1,9 @@
+```{r read data}
+
+train = read.csv("~/Downloads/titanic_train.csv")
+test = read.csv("~/Downloads/titanic_test.csv")
+
+
+
+
+```
